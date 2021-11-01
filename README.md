@@ -16,7 +16,7 @@ I have customized the Carball package to process the replay files successfully. 
 
 ## Step 4: Process the data using Process Replays folder 
 
-Process the data using the ```newtrainingdata.py```
+Process the data using the ```newtrainingdata.py```. The function is sophisticated so please modify with caution.
 
 ## Step 5: Customize ```botnetwork.py``` 
 

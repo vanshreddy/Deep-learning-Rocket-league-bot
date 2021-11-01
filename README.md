@@ -14,7 +14,7 @@ In
 
 I have customized the Carball package to process the replay files successfully. So paste the file in your python environment. ( Uploading soon)
 
-## Step 4: Process the data using Process Repplays folder 
+## Step 4: Process the data using Process Replays folder 
 
 Process the data using the ```newtrainingdata.py```
 
@@ -24,7 +24,7 @@ Modify the network based on how the data is distributed.
 
 ## Step 6: Run ```trainnetwork.py```
 
-Run this file to train the network. Make sure you link the path to data.
+Run this file to train the network. Make sure you link the path to data and pre process the data using the file in Process Replays it converts replay data to JSON format
 
 
 

@@ -2,13 +2,13 @@ import createTrainingData
 
 #how decompile a .replay file into .json format, save it locally(optional) returns extracted game frames data and controls:
 
-extractedGameStatesAndControls = createTrainingData.convert_replay_to_game_frames("C:\\Users\\vansh\\Desktop\\Rocketleaguebot\\va.replay","C:\\Users\\vansh\\Desktop\\Rocketleaguebot\\ana.json",save_json = False)
+extractedGameStatesAndControls = createTrainingData.convert_replay_to_game_frames("PATH TO DATA",save_json = False)
 
 
 
 #how to extract game frames data and controls from a previously decompiled .json file:
 
-createTrainingData.createAndSaveReplayTrainingDataFromJSON("C:\\Users\\vansh\\Desktop\\Rocketleaguebot\\ana.json", outputFileName = "exampleTrainingData.pbz2")
+createTrainingData.createAndSaveReplayTrainingDataFromJSON("PATH TO DATA", outputFileName = "exampleTrainingData.pbz2")
 
 
 #how to load the data from a previously saved .pbz2 file:

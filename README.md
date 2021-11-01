@@ -7,7 +7,7 @@ A Rocket League Bot which uses data to train a Neural Network to play the Game. 
 
 This project is unique in the way it trains the network. The network takes into the position of the ball(X,Y,Z rotation and the axis), position of the user(X,Y,Z rotation and the axis).Previous projects have failed to account for this.
 
-Trained using 100k data points on cloud. The following clip is a example.
+Trained using 100k data points on cloud. The following clip is a example.Scroll down to replicate the procedure.
 
 
 ## Example 

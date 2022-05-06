@@ -10,9 +10,6 @@ This project is unique in the way it trains the network. The network takes into 
 Trained using 100k data points on cloud. The following clip is a example.Scroll down to replicate the procedure.
 
 
-## Example 
-
-https://user-images.githubusercontent.com/68335743/139625631-a3b594a0-df2a-4492-be87-b2d2e610e069.mp4
 
 
 ## Usage
